@@ -1,0 +1,65 @@
+body{
+    background-color: #333;
+    margin-top: 50px;
+}
+
+
+/* jumbotron */
+.jumbotron{
+    background-color: #aaa;
+}
+
+.jumbotron h1{
+    font-weight: 400;
+}
+
+.jumbotron p{
+    font-weight: 380;
+}
+
+/* akhir jumbotron */
+
+
+/* biografi */
+.biografi{
+    background-color: #eee;
+    min-height: 790px;
+}
+
+.biografi img{
+    float: left;
+}
+/* akhir biografi */
+
+
+/* penghargaan */
+.penghargaan{
+    background-color: #eee;
+    min-height: 550px;
+}
+
+.penghargaan img{
+    float: right;
+    border: 3px solid black;
+}
+/* akhir penghargaan */
+
+
+/* kutipan */
+.kutipan{
+    background-color: #eee;
+    min-height: 890px;
+}
+/* akhir kutipan */
+
+
+/* footer */
+footer{
+    color: white;
+    padding-top: 50px;
+}
+
+footer .copyright{
+    padding-top: 50px;
+}
+/* akhir footer */
